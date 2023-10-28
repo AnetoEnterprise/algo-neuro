@@ -21,3 +21,8 @@ freely added to the Algo-NEURO Cloud to allow programmers to
 adapt it correctly to their systems thanks to operational APIs and
 exploit it to those who want to integrate it into their business ChatBot, robots, and others
 systems.
+
+In this case, the free version offered can be used only on the console (Terminal)
+of the Universal Execution Environment (EEU or URE) as shown in the image below
+After :
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Capture1.png)
