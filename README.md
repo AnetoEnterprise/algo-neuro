@@ -40,9 +40,27 @@ high time to install Algo-NEURO and create your neurons
 as much as you want.
 
 # 1. Installation :
-Go to https://sourceforge.net/projects/algo-neuro and download
-the compatible version of your system. As you can see, in the image
+Download the compatible version of your system. As you can see, in the image
 following from our hard drive, the downloaded files, we have all the
 Windows and Linux versions for testing:
 
 ![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture2.png)
+
+In this example the images shown were captured from the
+Windows10 platform using MINGW64. You are free to use
+any terminal or even the default Windows command prompt
+as shown in this image:
+
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture3.png)
+
+You can install the TAR or ZIP version, or choose the version
+installation using the Windows installer (SETUP) by following the procedures
+installation instructions as shown in the following images:
+
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture4.png)
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture5.png)
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture6.png)
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture7.png)
+
+You have just correctly installed the Algo-NEURO for real-world testing. Now, he
+All we have to do is configure the environment and create our neurons for testing.
