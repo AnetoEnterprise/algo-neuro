@@ -64,3 +64,41 @@ installation instructions as shown in the following images:
 
 You have just correctly installed the Algo-NEURO for real-world testing. Now, he
 All we have to do is configure the environment and create our neurons for testing.
+
+# 2. Configuration:
+The configuration of Algo-NEURO is not mandatory. But it makes sense to do it
+if and only if you want the error results to be displayed to your
+natural language as long as the default language used is French.
+
+In this case, you must go to the environment directory
+universal runtime (C:/URE) on Windows or (/usr/share/ure) on Linux and
+to find the lang.conf configuration file as in the image below:
+
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture8.png)
+
+You are free to modify and translate the information contained in this file
+to the language of your choice except that the codes do not need to be modified or
+translate. You will have more details regarding these codes from the page of
+the universal execution environment (EEU or URE). Let's now move on to the
+creation of our neurons and their learning.
+
+Let's now install the internal memory of our neurons:
+
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture9.png)
+
+Follow the installation procedures to properly perform your tests.
+
+# 3. Creation of neurons and forced learning:
+Below you will understand the different syntaxes offered by Algo-
+NEURO to allow you to properly create, learn and test your
+neurons from any terminal. In this case, you will find from the
+directory C:\URE\lib on Windows, or /usr/share/ure/lib on Linux a
+file test_neurones_syntaxes.txt. This file contains the syntaxes that will
+allow you to create your neurons, to teach them information to your
+needs and test their functionality easily.
+
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture10.png)
+
+You can translate it according to your understandable language to ensure your tests
+and other procedures. With this example, our syntaxes from the file are in
+French.
