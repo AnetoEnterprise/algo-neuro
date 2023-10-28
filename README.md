@@ -116,3 +116,41 @@ on the image :
 ![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture11.png)
 
 And proceed with the following commands according to your needs:
+
+# 3.1 Creation of neurons and supervised learning :
+neurone superviseur=("Your information here");
+
+The supervisor neuron command, as its name suggests, allows
+developers to create and supervise the learning of their
+neurons so that they can be used in the future as a network of
+universal and understandable neurons.
+
+# 3.2 Updating information in a neuron:
+neurone superviseur de mises à jour=("Your old information
+here","Your new information here");
+
+It turns out that your neural network is no longer up to date and you would like to
+update the information contained in certain neurons, the
+command above will do the trick.
+
+# 3.3 Communication between administrator and system:
+neurone superviseur des questions=("");
+
+This command is used to initiate the conversation between the administrator of the
+network and the mother system of your neurons. It turns out that your network of
+neurons had not understood certain information and which meant that it
+responds with bad information. The neuron command
+question supervisor will allow the system to display all questions
+information that was incorrectly answered so that the administrator
+manages to respond correctly and which will ensure that your neurons
+learn the new information again.
+
+# 3.4 Test :
+neurone=("Your test information here");
+
+And for the last command, allows you to carry out the tests of all this
+that you have taught your system (neural network) so that it
+correctly meets your needs. It plays the role of a dendrite
+input (INPUT) for transmitting input information to
+neurons in the network. In other words, a dedicated testing ChatBot on the
+console in order to respond to the Algo-NEURO system.
