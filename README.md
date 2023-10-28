@@ -88,7 +88,7 @@ Let's now install the internal memory of our neurons:
 
 Follow the installation procedures to properly perform your tests.
 
-# 3. Creation of neurons and forced learning:
+# 3. Creation of neurons and supervised learning:
 Below you will understand the different syntaxes offered by Algo-
 NEURO to allow you to properly create, learn and test your
 neurons from any terminal. In this case, you will find from the
@@ -102,3 +102,17 @@ needs and test their functionality easily.
 You can translate it according to your understandable language to ensure your tests
 and other procedures. With this example, our syntaxes from the file are in
 French.
+
+If you had translated them to a language other than the default one, on the
+terminal also you must perform the operations in this translated language to
+that it works successfully. On the other hand, you will come across messages from
+errors.
+
+Before proceeding with the following syntaxes, you must first make a call
+to your syntax file on the console. Launch Command Prompt or
+MINGW64 and execute the command :s:test_neurones_syntaxes.txt as
+on the image :
+
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture11.png)
+
+And proceed with the following commands according to your needs:
