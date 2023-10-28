@@ -118,7 +118,9 @@ on the image :
 And proceed with the following commands according to your needs:
 
 # 3.1 Creation of neurons and supervised learning :
+```shell
 neurone superviseur=("Your information here");
+```
 
 The supervisor neuron command, as its name suggests, allows
 developers to create and supervise the learning of their
