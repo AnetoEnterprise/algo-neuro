@@ -211,3 +211,5 @@ red, defined that the result of the request was not found on the network.
 
 # 5. Conclusion :
 Thanks for understanding, and we hope you will be able to well carry out the procedures proposed for creating and learning your neurons. Go to the official website for the production launch of your neural network.
+
+<img src="https://github.com/AnetoEnterprise/nGold/blob/main/Logo.png" width="40" height="40"> Copyright 2023 by AnetoEnterprise Inc. all rights reserved.
