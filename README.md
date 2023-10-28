@@ -162,3 +162,52 @@ correctly meets your needs. It plays the role of a dendrite
 input (INPUT) for transmitting input information to
 neurons in the network. In other words, a dedicated testing ChatBot on the
 console in order to respond to the Algo-NEURO system.
+
+# 4. Example :
+Algo-NEURO offers a system for creating neurons with your own
+information. If you want your neural network to use the information
+existing on the Algo-NEURO Cloud, you must export your neurons
+easily and use the paid version. But you are also free to learn to
+your neurons the information according to your needs and to import it freely on the
+Cloud.
+
+Let's take an example to make things easier for you to know how we
+let's use all these commands.
+Let's make a call to our syntax file if it is not already done as on
+the image :
+
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture12.png)
+
+Now it's high time to create a neuron and let it learn certain information. Follow the following screenshots:
+
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture13.png)
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture14.png)
+
+We clearly see that our neuron was created correctly since the
+C:/URE/NEURO directory under Windows, and under Linux via the directory
+/usr/share/ure/NEURO. Note that, after creation, learning and
+tests your neurons, you can copy or move all your neurons via a
+safe place so that later these neurons can be imported and used on the
+Algo-NEURO Cloud for your system.
+
+Now we need to test our neuron as follows:
+
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture15.png)
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture16.png)
+
+And here's the result !
+
+In the following image we see that the environment returns the results of the multi-color conversation:
+
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture17.png)
+
+If you have come across the green color of the information (Info bubble), know this
+that your neurons have just found the answer to your request 100%. The colour
+blue conversation set as neurons or your neural network
+just found the answer to your request between 50% to 85%. Yellow defined
+that the response found ranges between 35% to 45% which effectively shows that the
+neural network not sure of the answer given. And to conclude with the
+red, defined that the result of the request was not found on the network.
+
+# 5. Conclusion :
+Thanks for understanding, and we hope you will be able to well carry out the procedures proposed for creating and learning your neurons. Go to the official website for the production launch of your neural network.
