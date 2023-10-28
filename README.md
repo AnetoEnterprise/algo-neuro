@@ -25,7 +25,7 @@ systems.
 In this case, the free version offered can be used only on the console (Terminal)
 of the Universal Execution Environment (EEU or URE) as shown in the image below
 After :
-![alt text](https://github.com/AnetoEnterprise/algo-neuro/Captures/blob/main/Capture1.png)
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture1.png)
 
 Once tested the behavior of your neurons, you will be free to export it in
 completely secure on the Algo-NEURO Cloud. In this case, you must first install
@@ -45,4 +45,4 @@ the compatible version of your system. As you can see, in the image
 following from our hard drive, the downloaded files, we have all the
 Windows and Linux versions for testing:
 
-![alt text](https://github.com/AnetoEnterprise/algo-neuro/Captures/blob/main/Capture2.png)
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Captures/Capture2.png)
