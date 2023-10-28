@@ -25,4 +25,24 @@ systems.
 In this case, the free version offered can be used only on the console (Terminal)
 of the Universal Execution Environment (EEU or URE) as shown in the image below
 After :
-![alt text](https://github.com/AnetoEnterprise/algo-neuro/blob/main/Capture1.png)
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/Captures/blob/main/Capture1.png)
+
+Once tested the behavior of your neurons, you will be free to export it in
+completely secure on the Algo-NEURO Cloud. In this case, you must first install
+and configure the Universal Execution Environment (EEU or URE) as needed to
+that the Algo-NEURO system is functioning correctly to ensure your tests. To
+Learn more about installing the Universal Runtime Environment, please
+refer to https://sourceforge.net/projects/ure. And find the compatible version at
+your operating system.
+
+After installing and configuring the universal execution environment, it is
+high time to install Algo-NEURO and create your neurons
+as much as you want.
+
+# 1. Installation :
+Go to https://sourceforge.net/projects/algo-neuro and download
+the compatible version of your system. As you can see, in the image
+following from our hard drive, the downloaded files, we have all the
+Windows and Linux versions for testing:
+
+![alt text](https://github.com/AnetoEnterprise/algo-neuro/Captures/blob/main/Capture2.png)
