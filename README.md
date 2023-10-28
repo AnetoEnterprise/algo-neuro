@@ -128,15 +128,19 @@ neurons so that they can be used in the future as a network of
 universal and understandable neurons.
 
 # 3.2 Updating information in a neuron:
+```shell
 neurone superviseur de mises à jour=("Your old information
 here","Your new information here");
+```
 
 It turns out that your neural network is no longer up to date and you would like to
 update the information contained in certain neurons, the
 command above will do the trick.
 
 # 3.3 Communication between administrator and system:
+```shell
 neurone superviseur des questions=("");
+```
 
 This command is used to initiate the conversation between the administrator of the
 network and the mother system of your neurons. It turns out that your network of
@@ -148,7 +152,9 @@ manages to respond correctly and which will ensure that your neurons
 learn the new information again.
 
 # 3.4 Test :
+```shell
 neurone=("Your test information here");
+```
 
 And for the last command, allows you to carry out the tests of all this
 that you have taught your system (neural network) so that it
